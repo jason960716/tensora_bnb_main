@@ -7167,7 +7167,7 @@ var Xc, Zc, Qc = e((() => {
                                 "--framer-text-color": `var(--token-a17b1ae9-8d78-40f3-a8a1-76615fcf0cd0, rgb(184, 184, 184))`
                               },
                               children: c(w, {
-                                href: `https://docs.tensora.network/miner-node`,
+                                href: `https://docs.tensora.network/`,
                                 motionChild: !0,
                                 nodeId: `I128:270;93:297`,
                                 openInNewTab: !0,
@@ -7329,7 +7329,7 @@ var Xc, Zc, Qc = e((() => {
                       })
                     })]
                   }), c(w, {
-                    href: `https://docs.tensora.network/miner-node`,
+                    href: `https://docs.tensora.network/`,
                     motionChild: !0,
                     nodeId: `kcMz12uzO`,
                     openInNewTab: !0,
@@ -7392,7 +7392,7 @@ var Xc, Zc, Qc = e((() => {
                                 "--framer-text-color": `var(--token-a17b1ae9-8d78-40f3-a8a1-76615fcf0cd0, rgb(184, 184, 184))`
                               },
                               children: c(w, {
-                                href: `https://docs.tensora.network/validator-node`,
+                                href: `https://docs.tensora.network/`,
                                 motionChild: !0,
                                 nodeId: `I128:272;93:297`,
                                 openInNewTab: !0,
@@ -7565,7 +7565,7 @@ var Xc, Zc, Qc = e((() => {
                       })
                     })]
                   }), c(w, {
-                    href: `https://docs.tensora.network/validator-node`,
+                    href: `https://docs.tensora.network/`,
                     motionChild: !0,
                     nodeId: `o_lAFlJh0`,
                     openInNewTab: !0,
@@ -7628,7 +7628,7 @@ var Xc, Zc, Qc = e((() => {
                                 "--framer-text-color": `var(--token-a17b1ae9-8d78-40f3-a8a1-76615fcf0cd0, rgb(184, 184, 184))`
                               },
                               children: c(w, {
-                                href: `https://docs.tensora.network/create-subnet`,
+                                href: `https://docs.tensora.network/`,
                                 motionChild: !0,
                                 nodeId: `I128:274;93:297`,
                                 openInNewTab: !0,
@@ -7804,7 +7804,7 @@ var Xc, Zc, Qc = e((() => {
                       })
                     })]
                   }), c(w, {
-                    href: `https://docs.tensora.network/create-subnet`,
+                    href: `https://docs.tensora.network/`,
                     motionChild: !0,
                     nodeId: `xNrLQoNBq`,
                     openInNewTab: !0,
