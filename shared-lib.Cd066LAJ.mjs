@@ -4792,7 +4792,7 @@ var Ws, Gs, Ks, qs, Js, Ys, Xs, Zs, Qs, $s, ec, tc, nc, rc, ic = e((() => {
                       }
                     }, y, T)
                   }), c(w, {
-                    href: `https://www.dextools.io/app/en/bnb/pair-explorer/0xdex`,
+                    href: `https://www.dextools.io/app/en/token/tensoranetwork?t=1761235491096`,
                     motionChild: !0,
                     nodeId: `gVT8fk9gC`,
                     openInNewTab: !0,
@@ -5853,7 +5853,7 @@ var Xc, Zc, Qc = e((() => {
                       className: `framer-ewv3x`,
                       "data-framer-name": `2 Buttons`,
                       children: [c(w, {
-                        href: `https://dexscreener.com/bsc/0x00000000000000000000000000000000000000`,
+                        href: `https://dexscreener.com/bsc/0x27aa5b209a011caaf5204a79f99f75a0f02b6bf6`,
                         motionChild: !0,
                         nodeId: `syYm6yxtj`,
                         openInNewTab: !0,
@@ -5889,7 +5889,7 @@ var Xc, Zc, Qc = e((() => {
                           })
                         })
                       }), c(w, {
-                        href: `https://pancakeswap.finance/swap?chain=bsc&outputCurrency=0x00000000000000000000000000000000000000`,
+                        href: `https://pancakeswap.finance/swap?chain=bsc&outputCurrency=0x27aa5b209a011caaf5204a79f99f75a0f02b6bf6`,
                         motionChild: !0,
                         nodeId: `Rk6Ha3gCf`,
                         openInNewTab: !0,
